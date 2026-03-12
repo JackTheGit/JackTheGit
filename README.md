@@ -64,6 +64,12 @@ https://github.com/NousResearch/hermes-agent
 
 ---
 
+Current Focus
+
+Building autonomous AI infrastructure monitoring systems with Hermes Agent.
+
+---
+
 # 🔗 Links
 
 GitHub  
@@ -71,3 +77,13 @@ https://github.com/JackTheGit
 
 X / Twitter  
 https://x.com/I_SODL
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackTheGit&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheGit&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=JackTheGit&theme=dark)
