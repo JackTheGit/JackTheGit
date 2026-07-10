@@ -6,22 +6,6 @@ Recently building systems with **Hermes Agent** and experimenting with long-runn
 
 ---
 
-# 🔧 Open Source Contributions
-
-Contributor to **Nous Research – Hermes Agent**
-
-Recent contributions include:
-
-• documentation improvements  
-• lint fixes and cleanup  
-• code robustness improvements  
-
-Repository:
-
-https://github.com/NousResearch/hermes-agent
-
----
-
 # 🧠 Interests
 
 • AI infrastructure  
@@ -40,12 +24,6 @@ https://github.com/NousResearch/hermes-agent
 • SEO & website architecture  
 • webmaster operations  
 • infrastructure and performance optimization  
-
----
-
-Current Focus
-
-Building autonomous AI infrastructure monitoring systems with Hermes Agent.
 
 ---
 
