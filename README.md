@@ -2,8 +2,6 @@
 
 Web developer with **10+ years experience in Web2 development**, now exploring **AI infrastructure, autonomous agents, and monitoring systems**.
 
-Recently building systems with **Hermes Agent** and experimenting with long-running autonomous AI workflows.
-
 ---
 
 # 🧠 Interests
