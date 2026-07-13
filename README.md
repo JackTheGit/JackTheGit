@@ -38,6 +38,4 @@ https://x.com/I_SODL
 # 📊 GitHub Stats
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheGit&layout=compact&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JackTheGit&theme=dark)
