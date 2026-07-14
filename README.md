@@ -11,6 +11,7 @@ Web developer with **10+ years experience in Web2 development**, now exploring *
 • infrastructure monitoring systems  
 • LLM tooling  
 • research intelligence pipelines  
+• nodes & traps
 
 ---
 
