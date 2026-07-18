@@ -15,17 +15,6 @@ Web developer with **10+ years experience in Web2 development**, now exploring *
 
 ---
 
-# 🛠 Background
-
-10+ years experience in:
-
-• Web development  
-• SEO & website architecture  
-• webmaster operations  
-• infrastructure and performance optimization  
-
----
-
 # 🔗 Links
 
 GitHub  
