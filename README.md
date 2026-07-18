@@ -1,9 +1,5 @@
 # Hi, I'm I SODL 👋
 
-Web developer with **10+ years experience in Web2 development**, now exploring **AI infrastructure, autonomous agents, and monitoring systems**.
-
----
-
 # 🧠 Interests
 
 • AI infrastructure  
