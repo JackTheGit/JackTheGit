@@ -13,9 +13,6 @@
 
 # 🔗 Links
 
-GitHub  
-https://github.com/JackTheGit
-
 X / Twitter  
 https://x.com/I_SODL
 
